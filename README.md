@@ -1,4 +1,4 @@
-# 📦 Otimização de Estoque de Varejo com Python
+# Otimização de Estoque de Varejo com Python
 
 **Tipo:** Otimização / Pesquisa Operacional
 **Dataset:** [Online Retail II - UCI](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
@@ -20,4 +20,4 @@ Para garantir 95% de atendimento aos pedidos:
 
 ---
 **Autor:** Davi Duarte Cucco
-*Conectando Data Science e Engenharia de Produção* | [LinkedIn](https://www.linkedin.com/in/davi-duarte-cucco-8b272a238)*
+*Conectando Data Science e Engenharia de Produção* | [LinkedIn](https://www.linkedin.com/in/davi-duarte-cucco-8b272a238)
